@@ -1,0 +1,17 @@
+1. Core Computing & Display
+brain: Raspberry Pi 5 (8GB or 4GB RAM recommended).
+Cooling: Raspberry Pi Active Cooler (Official SC1148).
+Storage: 64GB (or higher) Class 10 microSD Card.
+Display: Waveshare 7-inch HDMI LCD (Resistive Touch, XPT2046 Controller, 1024x600 resolution).
+
+2. Input & Control
+Keyboard: COOLCOLD Mini Wireless Keyboard (with track pad).
+
+3. Chassis & Structure (Custom)
+Screen Frame: 3D Printed Custom Case (169mm x 129mm).
+Keyboard Base: 3D Printed Custom Case (146.8mm x 97.5mm).
+Fasteners: * 4x M2.5 Screws (for mounting the Pi to the frame).
+4x M3 Screws/Bolts (for the outer corner "ear" mounts).
+
+4. Software Stack
+OS: Raspberry Pi OS (64-bit).
