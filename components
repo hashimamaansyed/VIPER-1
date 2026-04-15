@@ -1,17 +1,10 @@
-1. Core Computing & Display
-brain: Raspberry Pi 5 (8GB or 4GB RAM recommended).
-Cooling: Raspberry Pi Active Cooler (Official SC1148).
-Storage: 64GB (or higher) Class 10 microSD Card.
-Display: Waveshare 7-inch HDMI LCD (Resistive Touch, XPT2046 Controller, 1024x600 resolution).
-
-2. Input & Control
-Keyboard: COOLCOLD Mini Wireless Keyboard (with track pad).
-
-3. Chassis & Structure (Custom)
-Screen Frame: 3D Printed Custom Case (169mm x 129mm).
-Keyboard Base: 3D Printed Custom Case (146.8mm x 97.5mm).
-Fasteners: * 4x M2.5 Screws (for mounting the Pi to the frame).
-4x M3 Screws/Bolts (for the outer corner "ear" mounts).
-
-4. Software Stack
-OS: Raspberry Pi OS (64-bit).
+Category,Component,Purpose,Price (USD)
+SBC,Raspberry Pi 5 (8GB RAM),Main Computing Unit,90.00
+Cooling,Official Active Cooler,Thermal Management,5.40
+Display,Waveshare 7-inch LCD,Main UI/Monitor,57.60
+Input,COOLCOLD Mini Keyboard,Primary Input Device,9.60
+Storage,Sandisk 64GB MicroSD,OS and File Storage,6.60
+Chassis,Custom VIPER-1 Frame,Structural Enclosure,3.60
+Cables,Micro HDMI to HDMI,Video Connection,4.20
+Total-177.00(estimated)
+note: price can vary from place to place because of the deal and places
